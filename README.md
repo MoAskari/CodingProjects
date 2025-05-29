@@ -11,10 +11,8 @@ Of particular note within these folders is the "Projects in C" folder, which con
    "ChooseYourOwnAdventureGame.c")
 
 As well as this, the "FinalYearProjectinMATLAB" folder contains all MATLAB code related to my final year dissertation, which involved the coding
-and simulation of a digital twin for a 3m wingspan VTOL UAV, which I led the manufacturing and design of in a student drone project, coordinating the
-efforts of 40 other engineering students as Project Lead. The files contain MATLAB scripts which ran alongside my final model, simulating the avionics
-system of the drone (all key electronics, including battery, pwoer distribution and motors) as well as their effects on overall flight performance
-when certain parameters were varied, to gauge the optimal flight configuration. 
+and simulation of a digital twin for a 3m wingspan Vertical Take-Off and Landing (VTOL) Unmanned Aerial Vehicle (UAV), which I led the design and manufacturing of in a student drone project, coordinating the efforts of 40 other engineering students as Project Lead. The files contain MATLAB scripts which ran alongside my final model, simulating the avionics system of the drone (all key electronics, including battery, power distribution and motors) 
+as well as their effects on overall flight performance when certain parameters were varied, to gauge the optimal flight configuration. 
 
 Thanks again for the opportunity to interview, I hope these descriptions were helpful and do let me know if you have any further questions!
 

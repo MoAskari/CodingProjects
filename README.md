@@ -10,7 +10,7 @@ Of particular note within these folders is the "Projects in C" folder, which con
    through a fictional narrative, with their choices affecting parameters such as stats, items/weapons, etc. as well as the story (contained in
    "ChooseYourOwnAdventureGame.c")
 
-As well as this, the "FinalYearProjectinMATLAB" folder contains my all MATLAB code related to my final year dissertation, which involved the coding
+As well as this, the "FinalYearProjectinMATLAB" folder contains all MATLAB code related to my final year dissertation, which involved the coding
 and simulation of a digital twin for a 3m wingspan VTOL UAV, which I led the manufacturing and design of in a student drone project, coordinating the
 efforts of 40 other engineering students as Project Lead. The files contain MATLAB scripts which ran alongside my final model, simulating the avionics
 system of the drone (all key electronics, including battery, pwoer distribution and motors) as well as their effects on overall flight performance
